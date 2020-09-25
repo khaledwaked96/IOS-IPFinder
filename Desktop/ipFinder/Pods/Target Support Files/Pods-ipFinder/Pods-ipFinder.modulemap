@@ -1,0 +1,6 @@
+framework module Pods_ipFinder {
+  umbrella header "Pods-ipFinder-umbrella.h"
+
+  export *
+  module * { export * }
+}
